@@ -58,3 +58,14 @@ Images are grouped into logical sub folders for clarity:
 
 ### 📝 Notes
 - Keeping stylesheets, scripts, images, and pages in separate folders ensures scalability and easy collaboration.  
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/Barakatumaini/DayZen-good-first-issue.git
+
+Then navigate into the project folder and install dependencies.
+
+## Usage
+
+Run the project locally following the project setup instructions.
